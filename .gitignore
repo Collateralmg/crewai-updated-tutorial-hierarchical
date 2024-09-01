@@ -2,5 +2,5 @@
 .env
 *.md
 myenv
-env/
+venv/
 /__pycache__/
