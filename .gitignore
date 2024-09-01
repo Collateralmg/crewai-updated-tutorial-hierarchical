@@ -1,3 +1,6 @@
 **/__pycache__/*
 .env
 *.md
+myenv
+env/
+/__pycache__/
