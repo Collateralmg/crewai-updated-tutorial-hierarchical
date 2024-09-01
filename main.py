@@ -35,7 +35,7 @@ crew = Crew(
     tasks=[fetch_news_task, analyze_news_task, compile_newsletter_task],
     process=Process.hierarchical,
     manager_llm=OpenAIGPT4,
-    verbose=2
+    verbose=True
 )
 
 # Kick off the crew's work
